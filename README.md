@@ -1,2 +1,2 @@
-# alx-low_level_programmig
+# alx-low_level_programming
 Let's start with C
